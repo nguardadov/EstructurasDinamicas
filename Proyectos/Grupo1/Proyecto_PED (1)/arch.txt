@@ -1,0 +1,12 @@
+*************Top 10 Puntajes*******************
+Nombre: Steven. Puntaje: 2
+Nombre: Alexander. Puntaje: 2
+Nombre: Ede. Puntaje: 2
+Nombre: Hector. Puntaje: 2
+Nombre: Ruben. Puntaje: 1
+Nombre: Nelson. Puntaje: 1
+Nombre: Alexis. Puntaje: 0
+Nombre: Nilson. Puntaje: 0
+Nombre: Joshua. Puntaje: 0
+Nombre: Guillermo. Puntaje: 0
+Nombre: . Puntaje: 0
